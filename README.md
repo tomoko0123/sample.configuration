@@ -1,0 +1,4 @@
+# sample.configuration
+migrationファイルのサンプルや様々なサービスのonfigをいろいろストックしておく
+
+あああああああ
