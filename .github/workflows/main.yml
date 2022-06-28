@@ -7,7 +7,7 @@ on:
     branches:
     - master
     paths:
-    - 'versoin.rb'
+    - 'versoin.yml'
 
   workflow_dispatch:
   
